@@ -1,7 +1,7 @@
 # Link naar je Github Pages
 
-Student : `studentnaam`
+Student : `Arman Salehi`
 
-Klas    : `klascode`
+Klas    : `LCTAOO0D`
 
-Link    : [github_username.github.io](github_username.github.io)
+Link    : [https://arman-salehi.github.io/](github_username.github.io)
